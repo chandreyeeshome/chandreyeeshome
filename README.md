@@ -5,9 +5,9 @@
 
 <p>
   <ul>
-    -🌱 I’m currently learning ... DSA and Web Development
-    -📚 Pursuing BTech CSE under Sister Nivedita University
-    - 📫 How to reach me: ... @the_twilight_dreamer
+    -🌱 I’m currently learning ... DSA and Web Development<br>
+    -📚 Pursuing BTech CSE under Sister Nivedita University<br>
+    - 📫 How to reach me: ... @the_twilight_dreamer<br>
   </ul>
 </p>
 
