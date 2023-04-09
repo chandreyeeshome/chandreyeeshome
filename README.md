@@ -1,4 +1,5 @@
-<h2>
-  Hey There!! 
-  <img src = "https://giphy.com/gifs/hello-hi-henlo-FAFo1M7EC4gRZ4HETH"
-</h2>
+Hi There!!👋
+
+- 🌱 I’m currently learning ... DSA and Web Development
+- 📚 Pursuing BTech CSE under Sister Nivedita University
+- 📫 How to reach me: ... @the_twilight_dreamer
