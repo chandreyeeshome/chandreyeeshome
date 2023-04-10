@@ -1,8 +1,8 @@
  <h2>Hi There!!</h2> <img src= "https://media.giphy.com/media/JblHbHS69jNF0bnGgL/giphy.gif" width="100">
   <div>
-  <right>
+  <center>
     <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="300">
-  </right>
+  </center>
   </div>
   
 - 🌱 I’m currently learning ... DSA and Web Development
