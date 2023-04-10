@@ -25,7 +25,7 @@
     <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" alt="Instagram Badge" width="75">
   </a>
   <a href="chandreyeeshome04@gamil.com">
-    <img src="https://media.giphy.com/media/A99U7yPvXJToI/giphy.gif" alt="Email Id" width="75">
+    <img src="https://media.giphy.com/media/jRMjmyA1qxmTFsHxzx/giphy.gif" alt="Email Id" width="75">
   </a>
 </div>
 
