@@ -2,9 +2,7 @@
     Hi There!! 
     <img src= "https://media.giphy.com/media/JblHbHS69jNF0bnGgL/giphy.gif" width="100"> 
   </h1>
-  <div align="right">
   - 🌱 I’m currently learning ... DSA and Web Development
-  </div>
   <div>
    <div align="left">
      <img src="https://media.giphy.com/media/Se3tQYUkwHwbDnIHww/giphy.gif" width="300">
@@ -14,8 +12,22 @@
     <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="300">
    </div>
   </div>
- - 📫 How to reach me: ... @the_twilight_dreamer
-  
+ - 📫 How to reach me: ...
+ 
+ <div id="badges"  align="center">
+  <a href="linkedin.com/in/chandreyee-shome">
+    <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" alt="LinkedIn Badge" width="50">
+  </a>
+  <a href="https://twitter.com/ChandreyeeShome">
+    <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" alt="Twitter Badge" width="50">
+  </a>
+  <a href="https://www.instagram.com/the_twilight_dreamer/">
+    <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" alt="Instagram Badge" width="50">
+  </a>
+  <a href="chandreyeeshome04@gamil.com">
+    <img src="https://media.giphy.com/media/A99U7yPvXJToI/giphy.gif" alt="Email Id" width="50">
+  </a>
+</div>
 
 
 
