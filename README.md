@@ -15,7 +15,7 @@
  - 📫 How to reach me: ...
  
  <div id="badges"  align="center">
-   <a href="chandreyeeshome04@gmail.com">
+   <a href="mailto: chandreyeeshome04@gmail.com">
     <img src="https://media.giphy.com/media/0XeE5NtCrXCnvZRUGM/giphy.gif" alt="Email Id" width="75">
   </a>
   <a href="https://www.linkedin.com/in/chandreyee-shome-086084255/overlay/contact-info/">
