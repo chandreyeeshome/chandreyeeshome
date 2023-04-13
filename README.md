@@ -16,7 +16,7 @@
  
  <div id="badges"  align="center">
    <a href="chandreyeeshome04@gamil.com">
-    <img src="https://media.giphy.com/media/k7Yv2QsOGYTsI0CIDt/giphy.gif" alt="Email Id" width="75">
+    <img src="https://media.giphy.com/media/0XeE5NtCrXCnvZRUGM/giphy.gif" alt="Email Id" width="75">
   </a>
   <a href="https://www.linkedin.com/in/chandreyee-shome-086084255/overlay/contact-info/">
     <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" alt="LinkedIn Badge" width="75">
