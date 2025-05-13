@@ -4,7 +4,7 @@
   </h1>
   
   ## Know Me
-  - 📚 CSE Sophomore at Sister Nivedita University
+  - 📚 CSE Junior at Sister Nivedita University
   - 🌱 UI/UX Designer
   - 🔭 Learning AI/ML
   - 💻 Interested in DSA and Competitive Coding
